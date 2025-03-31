@@ -51,5 +51,8 @@ Saves your apps, websites, window size, and layout — even across sessions.
 
 ---
 ### Changelog
-3/31/2025 - Version 1.0
+3/31/2025 - v1.1.0
+- Changed the icon formatting to use 5 rows instead of 4
+
+3/31/2025 - v1.0.0
 - Initial Upload
