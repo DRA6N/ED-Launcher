@@ -51,6 +51,13 @@ Saves your apps, websites, window size, and layout — even across sessions.
 
 ---
 ### Changelog
+4/2/2025 - v1.3.0
+- Fixed a bug where if a website doesn't have a favicon, it would originally just use a grey square. Now it will use a default icon if no favicon is found.
+
+4/1/2025 - v1.2.0
+- Added the option to set the grid size under the options menu.
+- Minor bug fixes
+
 3/31/2025 - v1.1.0
 - Changed the icon formatting to use 5 rows instead of 4
 
