@@ -51,6 +51,15 @@ Saves your apps, websites, window size, and layout — even across sessions.
 
 ---
 ### Changelog
+4/9/25 - v2.0.0
+- Added the ability to set apps to launch when Elite Dangerous is launched.
+     - Right click an app and click "Launch with Elite Dangerous". A symbol will appear on the app icon.
+- Added a splash window that pops up first - allowing the rest of the app ample time to pre-load the data (if any).
+- Minor Bug Fixes
+
+_Note: You may need to re-add your apps and websites, as this uses a new data.edl file and you will lose previously added apps/sites_
+---
+### Older Changes:
 4/2/2025 - v1.3.0
 - Fixed a bug where if a website doesn't have a favicon, it would originally just use a grey square. Now it will use a default icon if no favicon is found.
 
