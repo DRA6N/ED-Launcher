@@ -49,6 +49,8 @@ Clean up your taskbar! You can send the launcher to the tray and reopen it anyti
 💾 Persistent Config:
 Saves your apps, websites, window size, and layout — even across sessions.
 
+**NEW:** Ability to set which apps you want to auto-launch with Elite Dangerous.
+
 ---
 ### Changelog
 4/9/25 - v2.0.0
